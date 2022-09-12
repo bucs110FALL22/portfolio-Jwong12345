@@ -14,4 +14,5 @@ Preferred Name: Jo Cheung Wong (Jo)
 
 Discord username:yaghan
 
-REPL url:https://github.com/bucs110FALL22/portfolio-Jwong12345
+REPL url: https://replit.com/join/klgqfegfhu-jo-cheungcheung
+https://github.com/bucs110FALL22/portfolio-Jwong12345
