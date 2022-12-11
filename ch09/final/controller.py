@@ -25,7 +25,12 @@ class Controller:
     
   def waifu_pic(self):
     self.type = input("what type do you want, sfw or nsfw? ")
-    if self.type == "sfw" or self.type == "nsfw":
+    if self.type == "sfw":
+      pass
+    elif self.type == "nsfw":
+      print("NOPE. I QUIT.")
+      self.type = "sfw"
+      print("Pleas select a sfw category you sick person")
       pass
     elif self.type != "sfw" or self.type != "nsfw":
       print("please choose one of the types offered.")
